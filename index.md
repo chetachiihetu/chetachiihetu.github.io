@@ -15,4 +15,4 @@ My GitHub page is http://github.com/chetachiihetu.
     This lab was very important to me because it showed me how to use inputs and outputs which is very fundamental. It was also one of the first labs were I was able to trace and debug code. I was also able to practice the Google c++ coding style. 
 
 * Lab 9
-    Lab 9, part 1, I was able to read and write from files which was  new to me, so I enjoyed having that experience. I put into practice the use of ifstream. I then learned how to write a program that determined if a number was prime. 
+    Lab 9, part 1, I was able to read and write from files which was  new to me, so I enjoyed having that experience. I put into practice the use of ifstream. I then learned how to write a program that determined if a number was prime.
